@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ N/A] List anything else that you can get done to improve the app functionality!
+* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
