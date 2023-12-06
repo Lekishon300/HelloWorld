@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="my_image_description"> This is a dog</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="christine_intro">Hello World!! My name is Christine and I love tea!</string>
+    <string name="button_text">Say Hello</string>
+</resources>
